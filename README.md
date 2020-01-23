@@ -1,3 +1,3 @@
 # kubernetes
 
-Created nginx deployment by k8 congig
+k8 config for nginx deployment 
